@@ -1,8 +1,8 @@
 {
   "name": "plugins-for-akita",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A set of functions created to extend the scope of Akita",
-  "main": "src/libs/index.js",
+  "main": "src/libs/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
