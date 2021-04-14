@@ -1,6 +1,6 @@
 {
   "name": "plugins-for-akita",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A set of functions created to extend the scope of Akita",
   "main": "src/libs/index.js",
   "scripts": {
