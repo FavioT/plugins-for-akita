@@ -71,7 +71,7 @@ export class PaginatorStorePlugin<State extends EntityState> extends AkitaPlugin
     private readonly page: Observable<number>;
     private initial!: boolean;
     private lastGetPageCallTime?: Date;
-    private readonly color;
+    private readonly color: any;
 
     constructor(protected query: QueryEntity<State>, config?: PaginatorStoreConfig) {
         super(query);
